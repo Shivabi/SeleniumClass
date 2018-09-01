@@ -15,7 +15,7 @@ public class JavaBasics
 
 	public static void staticmethod() //Calling Static methods
 	{
-		System.out.println("Vinesh");
+		System.out.println("Syed GIT");
 	}
 	
 	public void Nonstaticmethod()
