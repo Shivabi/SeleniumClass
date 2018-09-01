@@ -15,7 +15,7 @@ public class Base {
 		int A =  objcret.nsv;
 		
 		System.out.println("This is Statis Method :" +A);
-		
+		System.out.println("Welcome Github");
 	}
 	
 	public void NonStaticMethod1()
