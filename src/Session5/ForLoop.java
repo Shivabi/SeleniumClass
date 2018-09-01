@@ -13,7 +13,7 @@ public class ForLoop {
 		for (int i=0; i<tptalleng; i++)
 		
 		{
-			
+			System.out.println("github practise");
 			System.out.println(ListName[reverse]);
 			reverse--;
 		}
